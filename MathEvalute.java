@@ -48,8 +48,8 @@ public class MathEvalute {
             String expression1 = "10 + 2 * 6";
             String expression2 = "100 * (2 + 12) / 14";
     
-            System.out.println("Result: " + evaluate(expression1)); // Output: 22
-            System.out.println("Result: " + evaluate(expression2)); // Output: 100
+            System.out.println("Result: " + evaluate(expression1)); 
+            System.out.println("Result: " + evaluate(expression2)); 
         }
     }
     
