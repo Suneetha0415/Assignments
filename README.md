@@ -1,1 +1,1 @@
-# Day1TechM
+# TechM
